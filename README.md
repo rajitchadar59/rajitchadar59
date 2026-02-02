@@ -101,13 +101,7 @@ Saraswati Shishu Mandir, Rahatgarh, Sagar (MP)
 - **NPTEL Elite Certificate** – Python for Data Science (IIT Madras), Score: 77%
 - Solved **200+ Data Structures & Algorithms problems** on LeetCode
 
----
 
-## Keywords (ATS Optimization)
 
-Full Stack Developer, MERN Stack, React.js, Node.js, Express.js, MongoDB, REST API, Java Developer, JavaScript Developer, Backend Developer, Frontend Developer, Web Developer, Socket.io, WebRTC, AWS, Cloud Deployment, Git, GitHub, Data Structures, Algorithms, OOPs, DBMS, Operating Systems, Computer Networks.
 
----
-
-⭐ *Open to internships, entry-level roles, and collaborative projects. Feel free to connect!*
 
