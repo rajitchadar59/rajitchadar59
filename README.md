@@ -1,33 +1,39 @@
-# Rajit Chadar – Full Stack Developer (MERN)
+<h1 align="center">👋 Hi, I'm Rajit Chadar</h1>
+<h3 align="center">Full Stack Developer (MERN) | B.Tech CSE Student</h3>
 
-📍 Sagar, Madhya Pradesh, India  
-📧 rajitathiya@gmail.com | 📞 +91 7489140554  
-🔗 GitHub: https://github.com/rajitchadar59  
-🔗 LinkedIn: https://linkedin.com/in/rajitchadar59  
+<p align="center">
+📍 Sagar, Madhya Pradesh, India <br/>
+📧 <a href="mailto:rajitathiya@gmail.com">rajitathiya@gmail.com</a> |
+📞 +91 7489140554
+</p>
 
----
+<p align="center">
+<a href="https://github.com/rajitchadar59">GitHub</a> •
+<a href="https://linkedin.com/in/rajitchadar59">LinkedIn</a>
+</p>
 
-## 👨‍💻 Professional Summary
+<hr/>
 
-Full Stack Developer and B.Tech Computer Science student with strong hands-on experience in **MERN Stack development**, **RESTful APIs**, and **real-time web applications** using **Socket.io** and **WebRTC**. Strong foundation in **Data Structures & Algorithms**, backend system design, and cloud deployment. Actively seeking **Software Engineer / Full Stack Developer Internship or Entry-Level roles**.
+## 🚀 Professional Summary
+
+> Full Stack Developer and B.Tech Computer Science student with strong hands-on experience in **MERN Stack development**, **RESTful APIs**, and **real-time web applications** using **Socket.io** and **WebRTC**.  
+> Strong foundation in **Data Structures & Algorithms**, backend system design, and cloud deployment.  
+> 🎯 Actively seeking **Software Engineer / Full Stack Developer Internship or Entry-Level roles**.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech) – Computer Science**  
+🎓 **Bachelor of Technology (B.Tech) – Computer Science**  
 Jabalpur Engineering College, Madhya Pradesh  
 📅 2023 – 2027 | 📊 **CGPA: 8.61**
 
-**Class XII – MP Board**  
-📅 2023 | **90.4%**
-
-**Class X – MP Board**  
-📅 2021 | **94%**
+🏫 **Class XII – MP Board (2023)** — **90.4%**  
+🏫 **Class X – MP Board (2021)** — **94%**
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Technical Skills
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -67,7 +73,7 @@ Jabalpur Engineering College, Madhya Pradesh
 
 ---
 
-### ⚙️ Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
@@ -113,11 +119,11 @@ Jabalpur Engineering College, Madhya Pradesh
 
 ## 🏆 Certifications & Achievements
 
-- Certified in **Data Structures and Algorithms with Java**
-- Full Stack Web Development (MERN) Certification
-- **NPTEL Elite Certificate** – Python for Data Science (IIT Madras, 77%)
-- Solved **200+ DSA problems** on LeetCode
+- Certified in **Data Structures and Algorithms with Java**  
+- Full Stack Web Development (MERN) Certification  
+- **NPTEL Elite Certificate** – Python for Data Science (IIT Madras, 77%)  
+- Solved **200+ DSA problems** on LeetCode  
 
 ---
 
-⭐ Open to internships, entry-level roles, and collaborations.
+⭐ *Open to internships, entry-level roles, and collaborations.*
