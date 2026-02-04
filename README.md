@@ -3,7 +3,7 @@
 
 <p align="center">
 📍 Sagar, Madhya Pradesh, India <br/>
-📧 <a href="mailto:rajitathiya@gmail.com">rajitathiya@gmail.com</a> |
+📧 <a href="mailto:rajitathiya@gmail.com">rajitathiya123@gmail.com</a> |
 📞 +91 7489140554
 </p>
 
