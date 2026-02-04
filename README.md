@@ -90,30 +90,34 @@ Jabalpur Engineering College, Madhya Pradesh
 
 ---
 
+
 ## 🚀 Projects
 
-### 🔹 MyGit – Custom Version Control System & GitHub Clone
-**Tech:** React.js, Node.js, Express.js, MongoDB, AWS S3, Socket.io  
+### 🔹 MyGit – Custom Git System & GitHub Clone
+**Tech:** Node.js, React.js, Express.js, MongoDB, AWS S3, Socket.io  
 
-- GitHub-like platform with repositories, commits, push/pull & revert  
-- Custom CLI commands using Node.js and Yargs  
-- Scalable MongoDB schemas  
-- Real-time collaboration using Socket.io  
+- Built a **custom Git CLI** supporting `init`, `add`, `commit`, `push` commands  
+- Implemented real **version control logic** with commit history & unique IDs  
+- Stored file versions securely using **AWS S3**  
+- Developed a **GitHub-like web platform** with repositories, issues & user profiles  
 
 🔗 Live: https://my-github-z2q3.onrender.com  
 💻 GitHub: https://github.com/rajitchadar59/my_github  
 
 ---
 
-### 🔹 Video Conferencing Platform
+### 🔹 My Video Call – Real-Time Video Conferencing Platform
 **Tech:** React.js, Node.js, Express.js, MongoDB, WebRTC, Socket.io  
 
-- Real-time peer-to-peer audio & video communication  
-- WebRTC for live streaming  
-- Socket.io for signaling  
+- Real-time **video & audio calling** using WebRTC  
+- Instant messaging & signaling with **Socket.io**  
+- Screen sharing and meeting history support  
+- **Join as Guest** feature for quick access without signup  
 
 🔗 Live: https://my-video-call-frontend-dzg0.onrender.com  
 💻 GitHub: https://github.com/rajitchadar59/my-video-call  
+
+
 
 ---
 
