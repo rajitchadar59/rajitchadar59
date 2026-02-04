@@ -7,11 +7,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-Full Stack Developer and B.Tech Computer Science student with strong hands-on experience in **MERN Stack**, **RESTful APIs**, and **real-time web applications** using **Socket.io** and **WebRTC**.  
-Strong foundation in **Data Structures & Algorithms**, backend system design, and cloud deployment.  
-Actively seeking **Software Engineer / Full Stack Developer Internship or Entry-Level roles**.
+Full Stack Developer and B.Tech Computer Science student with strong hands-on experience in **MERN Stack development**, **RESTful APIs**, and **real-time web applications** using **Socket.io** and **WebRTC**. Strong foundation in **Data Structures & Algorithms**, backend system design, and cloud deployment. Actively seeking **Software Engineer / Full Stack Developer Internship or Entry-Level roles**.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) – Computer Science**  
+Jabalpur Engineering College, Madhya Pradesh  
+📅 2023 – 2027 | 📊 **CGPA: 8.61**
+
+**Class XII – MP Board**  
+📅 2023 | **90.4%**
+
+**Class X – MP Board**  
+📅 2021 | **94%**
 
 ---
 
@@ -42,12 +54,22 @@ Actively seeking **Software Engineer / Full Stack Developer Internship or Entry-
 
 ---
 
-### ⚙️ Tools, DevOps & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### ⚙️ DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 
@@ -62,24 +84,14 @@ Actively seeking **Software Engineer / Full Stack Developer Internship or Entry-
 
 ---
 
-## 📦 DevOps & Cloud
-
-- Docker containerization for MERN stack applications  
-- CI/CD pipelines using **GitHub Actions**  
-- Basic **Kubernetes** concepts: Pods, Services, Deployments  
-- Cloud deployment & environment configuration  
-
----
-
 ## 🚀 Projects
 
 ### 🔹 MyGit – Custom Version Control System & GitHub Clone
-**Tech:** React.js, Node.js, Express.js, MongoDB, AWS S3, Socket.io, Docker  
+**Tech:** React.js, Node.js, Express.js, MongoDB, AWS S3, Socket.io  
 
 - GitHub-like platform with repositories, commits, push/pull & revert  
 - Custom CLI commands using Node.js and Yargs  
-- Dockerized backend services  
-- CI/CD pipeline using GitHub Actions  
+- Scalable MongoDB schemas  
 - Real-time collaboration using Socket.io  
 
 🔗 Live: https://my-github-z2q3.onrender.com  
@@ -88,12 +100,11 @@ Actively seeking **Software Engineer / Full Stack Developer Internship or Entry-
 ---
 
 ### 🔹 Video Conferencing Platform
-**Tech:** React.js, Node.js, Express.js, MongoDB, WebRTC, Socket.io, Docker  
+**Tech:** React.js, Node.js, Express.js, MongoDB, WebRTC, Socket.io  
 
 - Real-time peer-to-peer audio & video communication  
 - WebRTC for live streaming  
 - Socket.io for signaling  
-- Dockerized frontend & backend  
 
 🔗 Live: https://my-video-call-frontend-dzg0.onrender.com  
 💻 GitHub: https://github.com/rajitchadar59/my-video-call  
@@ -102,10 +113,10 @@ Actively seeking **Software Engineer / Full Stack Developer Internship or Entry-
 
 ## 🏆 Certifications & Achievements
 
-- Data Structures and Algorithms with Java  
-- Full Stack Web Development (MERN)  
-- **NPTEL Elite Certificate** – Python for Data Science (IIT Madras, 77%)  
-- Solved **200+ DSA problems** on LeetCode  
+- Certified in **Data Structures and Algorithms with Java**
+- Full Stack Web Development (MERN) Certification
+- **NPTEL Elite Certificate** – Python for Data Science (IIT Madras, 77%)
+- Solved **200+ DSA problems** on LeetCode
 
 ---
 
