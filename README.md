@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://github.com/rajitchadar59">GitHub</a> •
-<a href="https://linkedin.com/in/rajitchadar59">LinkedIn</a>
+
 </p>
 
 <hr/>
