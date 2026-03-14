@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rajitchadar59">GitHub</a> •
+
 
 </p>
 
