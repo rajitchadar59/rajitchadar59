@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rajit Chadar</h1>
+<h2 align="center">👋 Hi, I'm Rajit Chadar</h2>
 <h3 align="center">Full Stack Developer (MERN) | B.Tech CSE Student</h3>
 
 <p align="center">
