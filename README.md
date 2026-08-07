@@ -135,7 +135,7 @@
 - 🥇 Certified in **Data Structures and Algorithms with Java**
 - 🏅 Full Stack Web Development (MERN) Certification
 - 📜 **NPTEL Elite Certificate** – Python for Data Science (IIT Madras, 77%)
-- 🧠 Solved **200+ DSA problems** on LeetCode
+- 🧠 Solved **500+ DSA problems** on LeetCode
 
 <hr/>
 
