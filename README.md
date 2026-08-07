@@ -96,6 +96,14 @@
 
 💻 **GitHub:** [rajitchadar59/bargit-nearby-bargain-marketplace](https://github.com/rajitchadar59/bargit-bargaining-marketplace)
 
+## 🔗 Project Links
+
+| Resource | Link |
+|----------|------|
+| 💻 GitHub Repository | https://github.com/rajitchadar59/bargit-bargaining-marketplace |
+| 🌐 Live Demo | https://bargitcom.vercel.app/ |
+| 🛠️ Admin Panel | https://bargitadmin.vercel.app/ |
+
 ---
 
 ### 🥈 2. MyGit – Custom Git System & GitHub Clone
