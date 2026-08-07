@@ -94,15 +94,26 @@
 - Implemented **Geospatial routing** utilizing MongoDB's `2dsphere` indexes (`$near` queries) for highly accurate location-based store discovery.
 - Developed a highly secure **Role-Based Access Control (RBAC)** architecture separating B2C (Customer), B2B (Vendor ERP), and Admin ecosystems.
 
-💻 **GitHub:** [rajitchadar59/bargit-nearby-bargain-marketplace](https://github.com/rajitchadar59/bargit-bargaining-marketplace)
 
-## 🔗 Project Links
 
-| Resource | Link |
-|----------|------|
-| 💻 GitHub Repository | https://github.com/rajitchadar59/bargit-bargaining-marketplace |
-| 🌐 Live Demo | https://bargitcom.vercel.app/ |
-| 🛠️ Admin Panel | https://bargitadmin.vercel.app/ |
+## 💻 GitHub Repository
+
+🔗 **Repository:**  
+https://github.com/rajitchadar59/bargit-bargaining-marketplace
+
+---
+
+## 🌐 Live Demo
+
+🚀 **User Website:**  
+https://bargitcom.vercel.app/
+
+---
+
+## 🛠️ Admin Panel
+
+⚙️ **Live Admin Dashboard:**  
+https://bargitadmin.vercel.app/
 
 ---
 
