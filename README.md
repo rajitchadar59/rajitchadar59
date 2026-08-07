@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Sagar,%20Madhya%20Pradesh-FF2E63?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-  <a href="mailto:rajitchadar123@gmail.com"><img src="https://img.shields.io/badge/Email-rajitathiya123@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:rajitchadar123@gmail.com"><img src="https://img.shields.io/badge/Email-rajitchadar123@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Phone-+91%207489140554-success?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
 </p>
 
