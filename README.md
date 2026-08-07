@@ -113,7 +113,7 @@
 - Developed a comprehensive web platform featuring user profiles, repositories, and issue tracking.
 
 🔗 **Live:** [my-github-z2q3.onrender.com](https://my-github-z2q3.onrender.com)  
-💻 **GitHub:** [rajitchadar59/my_github](https://github.com/rajitchadar59/my_github)
+💻 **GitHub:** [rajitchadar59/my-github](https://github.com/rajitchadar59/my-github)
 
 ---
 
