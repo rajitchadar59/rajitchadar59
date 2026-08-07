@@ -95,25 +95,12 @@
 - Developed a highly secure **Role-Based Access Control (RBAC)** architecture separating B2C (Customer), B2B (Vendor ERP), and Admin ecosystems.
 
 
+🌐 **Live Demo:** [bargitcom.vercel.app](https://bargitcom.vercel.app/)
 
-## 💻 GitHub Repository
+🛠️ **Admin Panel:** [bargitadmin.vercel.app](https://bargitadmin.vercel.app/)
 
-🔗 **Repository:**  
-https://github.com/rajitchadar59/bargit-bargaining-marketplace
+💻 **GitHub:** [rajitchadar59/bargit-bargaining-marketplace](https://github.com/rajitchadar59/bargit-bargaining-marketplace)
 
----
-
-## 🌐 Live Demo
-
-🚀 **User Website:**  
-https://bargitcom.vercel.app/
-
----
-
-## 🛠️ Admin Panel
-
-⚙️ **Live Admin Dashboard:**  
-https://bargitadmin.vercel.app/
 
 ---
 
